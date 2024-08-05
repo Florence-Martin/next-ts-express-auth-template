@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Output directories
+dist/
+
+# MacOS system files
+.DS_Store
+
+# Environment variables file (sensitive information)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+
+# Editor specific files
+.vscode/
+.idea/
+
+# Ignore test coverage directory
+coverage/
